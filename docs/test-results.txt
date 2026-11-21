@@ -1,0 +1,19 @@
+
+> project-pulse@0.1.0 test
+> vitest run
+
+
+ RUN  v3.2.4 /home/sandbox/project-pulse
+
+ ✓ tests/tasks.test.ts (9 tests) 1498ms
+ ✓ tests/permissions.test.ts (6 tests) 581ms
+ ✓ tests/auth.test.ts (4 tests) 418ms
+ ✓ tests/session.test.ts (3 tests) 13ms
+ ✓ tests/realtime.test.ts (2 tests) 4ms
+ ✓ tests/dashboard.test.ts (4 tests) 3ms
+
+ Test Files  6 passed (6)
+      Tests  28 passed (28)
+   Start at  17:47:47
+   Duration  8.89s (transform 126ms, setup 5.07s, collect 520ms, tests 2.52s, environment 1ms, prepare 265ms)
+
