@@ -5,6 +5,13 @@ collaborate in real time, and track progress on an interactive Kanban board.
 
 Built for the Ciranta Full-Stack Product Development Challenge (Round 1).
 
+## Demo video
+
+[Watch or download the 3:15 demo](project-pulse-demo.mp4). This silent screen
+recording uses synthetic accounts and covers registration, projects and members,
+task creation and assignment, Kanban drag, comments and activity, dashboard,
+mobile layout, and side-by-side live updates between two independent sessions.
+
 ## Features
 
 - **Authentication and user management** — register, log in, log out. Passwords are
